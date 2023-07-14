@@ -1,0 +1,6 @@
+adept2 forward (recording) 5.656956 res'=161.181033
+adept2 forward reverse 9.429223 res'=10.000000
+tapenade forward 0.867728 res'=161.181033
+tapenade forward and reverse 2.791233 res'=10.000000
+enzyme forward 0.873955 res'=161.181033
+enzyme forward and reverse 1.925521 res'=10.000000

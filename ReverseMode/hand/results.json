@@ -1,0 +1,21 @@
+[
+    {
+        "batch-size": 1,
+        "llvm-version": "12.0.1 ",
+        "mode": "ReverseMode",
+        "name": "simple_small/hand1_t26_c100.txt",
+        "tools": [
+            {
+                "name": "Enzyme combined",
+                "result": [
+                    -7.568034364618518,
+                    -1.4431269999050311,
+                    -0.6140039423961261,
+                    -100.0,
+                    -100.0
+                ],
+                "runtime": 0.00788199994713068
+            }
+        ]
+    }
+]
